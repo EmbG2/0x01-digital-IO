@@ -6,5 +6,5 @@
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=CLICKER1.X.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/CLICKER1.X.production.hex
+CND_ARTIFACT_NAME_default=FirstProject.X.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/FirstProject.X.production.hex

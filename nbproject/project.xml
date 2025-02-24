@@ -3,8 +3,8 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>CLICKER1</name>
-            <creation-uuid>19969b9d-3670-4795-9bd7-b77f11bd110c</creation-uuid>
+            <name>FirstProject</name>
+            <creation-uuid>fddad722-eda5-4484-8315-b076b9eeadb3</creation-uuid>
             <make-project-type>0</make-project-type>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
