@@ -1,5 +1,3 @@
-#include <p33EP512MU810.h>
-
 #include "xc.h"
 
 int main(void) {
